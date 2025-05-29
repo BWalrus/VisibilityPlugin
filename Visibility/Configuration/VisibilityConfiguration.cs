@@ -333,12 +333,6 @@ public class VisibilityConfiguration: IPluginConfiguration
 	}
 
 	public void UpdateCurrentConfig(ushort territoryType, bool edit = false)
-	{
-		if (this.AdvancedEnabled == false ||
-		    this.allowedTerritory.Contains(territoryType) == false)
-		{
-			territoryType = 0;
-		}
 
 		if (this.TerritoryConfigDictionary.ContainsKey(territoryType) == false)
 		{
