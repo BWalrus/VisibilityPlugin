@@ -1,0 +1,19 @@
+{
+        "Author": "Zeb",
+        "Name": "Visibility 2",
+        "Punchline": "Visibility plugin but applies to duties",
+        "Description": "Visibility plugin but applies to duties.",
+        "Changelog": "Initial publish",
+        "InternalName": "VisibilityZeb",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/BWalrus/VisibilityPlugin",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+    },
