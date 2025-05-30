@@ -16,9 +16,9 @@
         "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.1/Glamourer.zip",
-        "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.1/Glamourer.zip",
-        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.1/Glamourer.zip",
+        "DownloadLinkInstall": "https://github.com/BWalrus/VisibilityPlugin/releases/download/1.0/Visibility.dll",
+        "DownloadLinkUpdate": "https://github.com/BWalrus/VisibilityPlugin/releases/download/1.0/Visibility.dll",
+        "DownloadLinkTesting": "https://github.com/BWalrus/VisibilityPlugin/releases/download/1.0/Visibility.dll",
         ],
     },
 
